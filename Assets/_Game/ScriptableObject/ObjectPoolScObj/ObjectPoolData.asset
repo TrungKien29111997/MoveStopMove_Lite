@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a46ee14ad836f3747939a45e014cb9bb, type: 3}
+  m_Name: ObjectPoolData
+  m_EditorClassIdentifier: 
+  <CharacterPrefab>k__BackingField:
+  - {fileID: 4264264905083442602, guid: b78f745cdf4a23c4099e7ae2471bde1e, type: 3}
+  - {fileID: 2118908698113328902, guid: 17ae8685dd2bdb341a01209e946abd52, type: 3}
+  <CharacterInfoPrefab>k__BackingField:
+  - {fileID: 3680636342193052103, guid: e145b7b63d7ca984a91b483cb7dd3745, type: 3}
+  - {fileID: 5225839435658131274, guid: f08caf20edde78245a5c3e6312a4ed0f, type: 3}
+  - {fileID: 7654469559879926944, guid: ac2650ddb710d2c47845e981c4ca51f6, type: 3}
+  <SwordPrefab>k__BackingField:
+  - {fileID: 520625007341622952, guid: fc85cdafaf54909479adc08bed0d764c, type: 3}
+  - {fileID: 2170198721448306263, guid: 80b42647a9fdfce4a923671b87292dc9, type: 3}
+  - {fileID: 4349343854229511517, guid: 879362d1162676240b2ea20af6b3fc77, type: 3}
+  <HammerPrefab>k__BackingField:
+  - {fileID: 623138797628540924, guid: cc736bf698dc15144bd77628f4e4855f, type: 3}
+  - {fileID: 13283886081787364, guid: b10dcdf0ecc833346aba14aacea09847, type: 3}
+  - {fileID: 7885361825867596818, guid: 71fc3146d38f1804fba310e06f4038a6, type: 3}
+  <GunPrefab>k__BackingField:
+  - {fileID: 5014563642853789722, guid: 7baf809ced91d544fbbcb6bc83cd4258, type: 3}
+  - {fileID: 1581096733846111850, guid: 0792596cbd4c59d439832db2fbcd3a72, type: 3}
+  - {fileID: 833551870261974919, guid: 48476951bd24bd948baea3f3a0da3cce, type: 3}
+  <SkillBuffPrefab>k__BackingField:
+  - {fileID: 3108568205412130751, guid: 0fe3fd2a484f7f34081dbd5f3680fa63, type: 3}
+  - {fileID: 7644180952319120327, guid: 191bf3a76969da14a9ac82452a9f2112, type: 3}
+  - {fileID: 5323839485454480432, guid: 2e32e04af8d19df4495cb59f4b75e050, type: 3}
+  <VFXPrePrefab>k__BackingField:
+  - {fileID: 4961126344586020216, guid: 5a1614677b151f846ae653fdcfdf7765, type: 3}
+  <IconPrefab>k__BackingField:
+  - {fileID: 734020452326730543, guid: 0c79ce85ea222bf4c896b78d23d7e67c, type: 3}
+  <HatPrefab>k__BackingField:
+  - {fileID: 4046913460334716716, guid: 8cab0c9c18ca21e44809ecbdc0f2fa3c, type: 3}
+  - {fileID: 4664007362605636883, guid: 1524511fd9ea4544b8258d24a78c8382, type: 3}
+  - {fileID: 675613160848375729, guid: 5e86a65c4dfa07147a84417b4cd86e59, type: 3}
+  - {fileID: 4587468623228404620, guid: 13958926e45ff614187060a0165b0c5e, type: 3}
+  - {fileID: 4124362937758435542, guid: a32d65d2481083542bcb6344da354e64, type: 3}
+  - {fileID: 1462037901579714182, guid: f3511e6f231c5324a90f04bc177b9649, type: 3}
+  - {fileID: 1156230831437837852, guid: f453c9ccf41172d4a8f5bce0b22dea0b, type: 3}
+  - {fileID: 142751797029111524, guid: 5550833ca6d9701409b0776fee5fbf57, type: 3}
+  <SheildPrefab>k__BackingField:
+  - {fileID: 6364897442115595345, guid: b8af1cc051d89d04a849118e126ba52e, type: 3}
+  - {fileID: 2634399014263567659, guid: df3107b596c2e1e4da885364b220733e, type: 3}
+  <SkillPrefab>k__BackingField:
+  - {fileID: 2671068919211500465, guid: bc0597760e9788e4aa513d31df5768c3, type: 3}
+  - {fileID: 2785027478330452990, guid: e07cc9d7b1475b446852bf0d5fc0f223, type: 3}
+  - {fileID: 3877762477783188782, guid: e52a07abaaa9f694f93e0004fae5ff2f, type: 3}

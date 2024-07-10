@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11c374c8e8b28a24e9df7e1d3489265a, type: 3}
+  m_Name: CharacterScObj
+  m_EditorClassIdentifier: 
+  <HealthBar>k__BackingField: {fileID: 1911732739508663641, guid: 41a35a0b355d34d418dd2a9d63ff64e9, type: 3}
+  <RangeAttack>k__BackingField: {fileID: 4206711759062865440, guid: 95988f10a7f17044ca46f0dfa1c7c25f, type: 3}
+  <Aim>k__BackingField: {fileID: 5161180109400848292, guid: 3e2dc2628438da643b00acdbe9294679, type: 3}
+  <Ring>k__BackingField: {fileID: 7479262037762644161, guid: 8fc9eb9d585bbdc4fbcd5085ac527041, type: 3}
+  <OffsetRing>k__BackingField: {x: -0.3, y: -0.2, z: 0}
+  <RotateRing>k__BackingField: {x: -0.27059808, y: -0.65328145, z: -0.27059808, w: 0.65328145}
+  <CharacterMat>k__BackingField:
+  - {fileID: 2100000, guid: a6c3cdf127d0b894097a9f63b1e144e5, type: 2}
+  - {fileID: 2100000, guid: 593f407ce06aa6f41b37c49b926827e0, type: 2}
+  - {fileID: 2100000, guid: 463c7ce202c2b3b48a758fbde8c56263, type: 2}
+  - {fileID: 2100000, guid: a6f18ffa41d9cd249b21e0eabd7a58a6, type: 2}
+  - {fileID: 2100000, guid: e205747b13c1ac0489ee148351f78d92, type: 2}
+  - {fileID: 2100000, guid: 5b70e67c27e7dff40b24faacad9a9a9c, type: 2}
+  <RankUpScaleModel>k__BackingField: 0.3
+  <RankUpScaleViewRange>k__BackingField: 1

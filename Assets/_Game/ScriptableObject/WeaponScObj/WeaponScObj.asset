@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3569f6ee7877f37449c4ec0e5922a12b, type: 3}
+  m_Name: WeaponScObj
+  m_EditorClassIdentifier: 
+  <WeaponAnim>k__BackingField:
+  - <CharShootClip>k__BackingField: {fileID: -203655887218126122, guid: d3310365688d6a84eb0f1da46c38c401, type: 3}
+    <CharPullOutClip>k__BackingField: {fileID: -203655887218126122, guid: 24753c2587798a844a8a305273827bb0, type: 3}
+    <MultiSpeed>k__BackingField: 2
+    <DelaySpawnBullet>k__BackingField: 0.3
+  - <CharShootClip>k__BackingField: {fileID: -203655887218126122, guid: e7c05880fcdad6244b2b5cc642287854, type: 3}
+    <CharPullOutClip>k__BackingField: {fileID: -203655887218126122, guid: 7fe1b69244a38ae43b71fdf8d62f5736, type: 3}
+    <MultiSpeed>k__BackingField: 1.5
+    <DelaySpawnBullet>k__BackingField: 0.3
+  - <CharShootClip>k__BackingField: {fileID: -203655887218126122, guid: 2d2da29f59bc0a8499658d34cbdb92aa, type: 3}
+    <CharPullOutClip>k__BackingField: {fileID: 678588977781434394, guid: 55646f031130b074d9ffed56cb25bb52, type: 3}
+    <MultiSpeed>k__BackingField: 2
+    <DelaySpawnBullet>k__BackingField: 0.2
